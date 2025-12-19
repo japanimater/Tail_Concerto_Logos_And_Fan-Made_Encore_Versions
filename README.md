@@ -6,7 +6,7 @@ It wasn't until as I was exporting these to SVG that I learned first-hand that w
 * Objects using blending modes render as "Normal" instead
 
 HOWEVER, please rest assure that the SVG files still contain the data and displays it correctly in Adobe Illustrator and Photoshop. 
-So you can still export it as large a raster image your computer can handle and it will still dislay correctly. 
+So you can still export it as large a raster image your computer can handle and it will still display correctly. 
 
 The image files contained within this repository are vector images I made of the logos from Tail Concerto, a Playstation 1 game. 
 The aforementioned game was published by Bandai Namco, developed by CyberConnect2, and is part of the larger Little Tail Bronx world/lore. 
